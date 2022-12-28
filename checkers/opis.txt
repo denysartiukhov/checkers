@@ -1,0 +1,12 @@
+Swift Checkers
+
+Opis
+Swift Checkers to jest prosta gra 'Warcaby' napisana w Swift 4 dla iOS.
+
+Instrukcje
+* Kliknij na New Game zeby zrestartowac gre
+* Kliknij na White lub Black zeby zmienic mode gry z Czlowiek na Komputer
+
+
+
+
